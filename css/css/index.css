@@ -1,0 +1,32 @@
+@import url("common.css");
+:root{
+	--main-list-shadow: 0px 1px 2px rgba(120, 120, 120, 1);
+	--main-list-selected-shadow: 0px 4px 2px rgba(120, 120, 120, .5);
+}
+.bg-gainsboro{
+	background: gainsboro;
+}
+.sm-shadow{
+	box-shadow: var(--main-list-shadow);
+}
+.side-pane-item-list{
+	max-width: 500px;
+}
+.bt{
+	border-top: thin solid rgba(255, 255, 255, .5);
+}
+.bb{
+	border-bottom: thin solid rgba(255, 255, 255, .5);
+}
+.underline{
+	text-decoration: underline !important;
+}
+.main-list{
+	background: #f8f9fa;
+	color: #6c757d;
+}
+.main-list-selected{
+	background: #4caf50;
+	color: white !important;
+	box-shadow: var(--main-list-selected-shadow);
+}

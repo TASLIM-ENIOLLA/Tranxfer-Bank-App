@@ -1,0 +1,154 @@
+{
+    "status": "success",
+    "message": "SUCCESS",
+    "data": {
+        "Status": "Success",
+        "Message": "successul",
+        "Data": [
+            {
+                "Id": 387,
+                "BranchCode": "GH060110",
+                "BranchName": "UNITED BANK FOR AFRICA(GH) LTD-MADINA",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 388,
+                "BranchCode": "GH060111",
+                "BranchName": "UNITED BANK FOR AFRICA-EAST LEGON 1",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 389,
+                "BranchCode": "GH060112",
+                "BranchName": "UNITED BANK FOR AFRICA-EAST LEGON 2",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 390,
+                "BranchCode": "GH060113",
+                "BranchName": "UNITED BANK FOR AFRICA-TESHIE",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 391,
+                "BranchCode": "GH060114",
+                "BranchName": "UNITED BANK FOR AFRICA-SPINTEX ROAD",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 392,
+                "BranchCode": "GH060402",
+                "BranchName": "UNITED BANK FOR AFRICA-TAKORADI",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 393,
+                "BranchCode": "GH060601",
+                "BranchName": "UNITED BANK FOR AFRICA-KUMASI-ADUM",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 394,
+                "BranchCode": "GH060101",
+                "BranchName": "UNITED BANK FOR AFRICA-HEAD OFFICE-RIDGE",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 395,
+                "BranchCode": "GH060102",
+                "BranchName": "UNITED BANK FOR AFRICA-ACCRA CENTRAL",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 396,
+                "BranchCode": "GH060103",
+                "BranchName": "UNITED BANK FOR AFRICA-TEMA",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 397,
+                "BranchCode": "GH060104",
+                "BranchName": "UNITED BANK FOR AFRICA-ABOSSEYOKAI",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 398,
+                "BranchCode": "GH060107",
+                "BranchName": "UNITED BANK FOR AFRICA-RING ROAD",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 399,
+                "BranchCode": "GH060108",
+                "BranchName": "UNITED BK FOR AFRICA-DZORWULU 1MOTORWAY",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 400,
+                "BranchCode": "GH060109",
+                "BranchName": "UNITED BANK FOR AFRICA-DZORWULU 2",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 401,
+                "BranchCode": "GH060127",
+                "BranchName": "UBA NORTH INDUSTRIAL AREA BUSINESS OFFICE",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 402,
+                "BranchCode": "GH060602",
+                "BranchName": "SUAME BRANCH",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            },
+            {
+                "Id": 403,
+                "BranchCode": "GH060125",
+                "BranchName": "UBA AIRPORT BRANCH",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHAC",
+                "BankId": 267
+            },
+            {
+                "Id": 404,
+                "BranchCode": "GH060124",
+                "BranchName": "UBA BANK ABEKA LAPAZ",
+                "SwiftCode": "STBGGHAC",
+                "Bic": "STBGGHACXXX",
+                "BankId": 267
+            }
+        ]
+    }
+}
